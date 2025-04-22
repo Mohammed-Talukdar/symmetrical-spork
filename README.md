@@ -1,4 +1,4 @@
-# symmetrical-spork
+# Loop-Master
 import java.util.Scanner;
 
 public class LoopMaster {
